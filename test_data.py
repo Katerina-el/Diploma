@@ -1,0 +1,1 @@
+registered_phone = "" # Необходим реальный телефон, который уже автоматизирован в системе (для теста FAU-033. test_033_login_incorrect_password())
